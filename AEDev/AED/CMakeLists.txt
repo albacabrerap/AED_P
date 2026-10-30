@@ -8,10 +8,23 @@ add_executable(AED main.cpp
         sstring.cpp
         vvector.h
         matrix.cpp
-        doublelinkedlist.cpp
         linkedlists.cpp
         double_linked.cpp
         exercises.cpp
         Primeronorepetido.cpp
         BST.cpp
+        hash_table.cpp
+        stackqueuedeque.cpp
+        AVL.cpp
+        RBTree.cpp
+        perimetroterr.cpp
+        konig.cpp
+        seguidores.cpp
+        escaleraw.cpp
+        bloques_entradas.cpp
+        mudanza.cpp
+        wordtranform.cpp
+        puzzledeslizante.cpp
+        laberinto.cpp
+        rivals.cpp
 )
